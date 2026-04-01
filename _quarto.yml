@@ -1,0 +1,39 @@
+project:
+  type: website
+  resources:
+    - assets/**
+  execute-dir: project
+
+filters:
+  - quarto-ext/fontawesome
+
+website:
+  # CHANGE THIS: replace "Your" and "Name" with your own first and last name.
+  # The <strong> tag makes the first name bold and coloured (see styles.css .site-name).
+  title: "<span class='site-name'><strong>Your</strong> Name</span>"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: pages/projects.qmd
+      - text: Outputs
+        href: pages/outputs.qmd
+      - text: Résumé for Research
+        href: pages/resume.qmd
+      - text: CV
+        href: pages/cv.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/YOURUSERNAME   # CHANGE THIS
+      - icon: envelope
+        href: mailto:YOUR.EMAIL@domain          # CHANGE THIS
+
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    smooth-scroll: true

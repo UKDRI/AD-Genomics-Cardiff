@@ -1,0 +1,61 @@
+---
+title: "Outputs"
+toc: false
+---
+
+<!--
+This page is for things you’ve produced and shared.
+Not everything needs to be a paper.
+If it exists, is citable, or is useful to others, it belongs here.
+-->
+
+## Publications
+
+<!--
+PROMPT:
+List selected or representative publications.
+You don’t need to include everything — link out if you have a full list elsewhere.
+-->
+
+- Author, A. (Year). *Title.* Journal. Link  
+- Author, A. (Year). *Title.* Journal. Link  
+
+---
+
+## Talks & posters
+
+<!--
+PROMPT:
+Include invited talks, conference presentations, posters, or seminars.
+-->
+
+- Event / venue (Year). *Title.* Link  
+- Event / venue (Year). *Title.* Link  
+
+---
+
+## Software, data & other resources
+
+<!--
+PROMPT:
+This can include:
+- Software or code repositories
+- Datasets
+- Dashboards or websites
+- Protocols or templates
+-->
+
+- **Tool / dataset name:** One-line description. Link  
+- **Resource name:** One-line description. Link  
+
+---
+
+## Other outputs (optional)
+
+<!--
+PROMPT:
+Use this for anything that doesn’t fit neatly above.
+Examples: blog posts, reports, policy briefs, training materials.
+-->
+
+- Output name (Year). One-line description. Link

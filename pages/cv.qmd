@@ -1,0 +1,143 @@
+---
+title: "Curriculum Vitae"
+toc: false
+---
+
+::: {.cv-header}
+# Your Name
+
+<div class="cv-subtitle">Your role / job title</div>
+
+<div class="cv-links">
+{{< include ../_partials/links.qmd >}}
+</div>
+
+
+<!--
+PROMPT:
+Optional. If you have a PDF CV, save it as assets/cv.pdf and uncomment the link below.
+<a class="cv-pdf" href="../assets/cv.pdf">PDF</a>
+-->
+:::
+
+---
+
+## Summary
+
+<!--
+PROMPT:
+2–4 sentences is plenty.
+Think “what do I do?” rather than “who am I?”.
+Focus on problems, methods, and impact.
+-->
+
+Write a short professional summary here. Keep it concrete and readable.
+Mention your main domain, the kinds of methods you use, and the impact you aim for.
+
+---
+
+## Employment
+
+<!--
+PROMPT:
+For each role:
+- Organisation — role title (dates)
+- 2–4 bullets focusing on outcomes and responsibility
+Action + result works well.
+-->
+
+**Organisation — Role title** *(YYYY–Present)*  
+- What you delivered, built, or enabled.
+- How this helped the project, team, or organisation.
+- Tools or methods are fine, but include *why it mattered*.
+
+**Organisation — Role title** *(YYYY–YYYY)*  
+- Impact-focused bullet.
+- Impact-focused bullet.
+
+---
+
+## Selected projects & achievements
+
+<!--
+PROMPT:
+Pick a small number (3–6).
+These can overlap with the Projects page — that’s fine.
+Keep each one to a single, strong sentence.
+-->
+
+- **Project or achievement title:** What you did and why it matters.  
+  *(Evidence: [repo](#), [report](#), [paper](#))*
+
+- **Project or achievement title:** One-line impact statement.
+
+- **Community / leadership / training contribution:** One-line impact statement.
+
+---
+
+## Skills
+
+<!--
+PROMPT:
+Keep this skimmable.
+Categories help more than long lists.
+-->
+
+**Programming & tools:** R, Python, Bash, Git, …  
+**Data & analysis:** Genomics, transcriptomics, statistics, visualisation, …  
+**Workflows & reproducibility:** HPC, containers, CI, documentation, FAIR, …  
+**Communication & teaching:** Workshops, mentoring, stakeholder communication, …  
+**Languages:** English (…), Portuguese (…), …
+
+---
+
+## Education
+
+<!--
+PROMPT:
+Degree — institution (dates).
+One short line on focus or thesis is optional.
+-->
+
+**Degree — Institution** *(YYYY–YYYY)*  
+Focus or thesis area (optional).
+
+**Degree — Institution** *(YYYY–YYYY)*
+
+---
+
+## Awards & fellowships
+
+<!--
+PROMPT:
+List what you have — small awards count too.
+-->
+
+- Award / fellowship — organisation or funder (YYYY)  
+- Travel grant — organisation (YYYY)
+
+---
+
+## Selected publications
+
+<!--
+PROMPT:
+Keep this short (3–6).
+Link to the Outputs page for a full list if you have one.
+-->
+
+- Author, A. (Year). *Title.* Journal. Link  
+- Author, A. (Year). *Title.* Journal. Link
+
+---
+
+## Outreach & teaching
+
+<!--
+PROMPT:
+Include anything that shows reach beyond your immediate role.
+-->
+
+- Teaching or training contribution (audience, topic)
+- Invited talk, poster, or seminar
+- Community service, committee work, or peer review

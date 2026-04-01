@@ -1,0 +1,110 @@
+---
+title: "Résumé for Research"
+toc: false
+---
+
+::: {.callout-note}
+This format focuses on **contributions and impact**, rather than job titles or
+publication counts. Wherever possible, link to evidence that supports your claims.
+:::
+
+<!--
+This page follows a narrative CV format commonly requested by research funders.
+You don’t need to complete every section in one go — start with what you have.
+-->
+
+This **Résumé for Research** uses a narrative CV structure, commonly requested by
+research funders and institutions.
+
+Contributions are grouped into **four modules**. For each entry, aim to make clear:
+
+- **What you contributed**
+- **Why it matters**
+- **Where the evidence can be found**
+
+---
+
+## 1. Contributions to the generation of knowledge
+
+<!--
+PROMPT:
+List 2–4 key research contributions.
+These could include methods, datasets, analyses, or conceptual advances.
+-->
+
+::: {.grid}
+::: {.g-col-12}
+::: {.card}
+### Contribution title or short claim
+
+- **Contribution:** What you did or produced.
+- **Significance:** Why this advances understanding in your field.
+- **Evidence:** Link to a paper, preprint, repository, report, or dataset.
+:::
+:::
+:::
+
+---
+
+## 2. Contributions to the development of others
+
+<!--
+PROMPT:
+Think broadly. This is not just formal supervision.
+Include teaching, mentoring, training, documentation, or informal support.
+-->
+
+::: {.grid}
+::: {.g-col-12}
+::: {.card}
+### Contribution title or short claim
+
+- **Contribution:** e.g. supervision, mentoring, teaching, onboarding resources.
+- **Who benefited:** students, colleagues, teams, or communities.
+- **Evidence:** materials, projects, acknowledgements, feedback.
+:::
+:::
+:::
+
+---
+
+## 3. Contributions to the wider research community
+
+<!--
+PROMPT:
+Examples include open science, shared resources, leadership, or service.
+-->
+
+::: {.grid}
+::: {.g-col-12}
+::: {.card}
+### Contribution title or short claim
+
+- **Contribution:** What you shared, led, or enabled.
+- **Reach:** Who uses it, or how widely it has been adopted.
+- **Evidence:** repositories, usage, citations, invitations.
+:::
+:::
+:::
+
+---
+
+## 4. Contributions to broader society
+
+<!--
+PROMPT:
+This can include translational impact, public engagement, policy influence,
+capacity building, or work that benefits specific communities.
+-->
+
+::: {.grid}
+::: {.g-col-12}
+::: {.card}
+### Contribution title or short claim
+
+- **Contribution:** Activity, output, or engagement.
+- **Impact:** Why this matters beyond academia.
+- **Evidence:** talks, collaborations, media, outputs.
+:::
+:::
+:::
