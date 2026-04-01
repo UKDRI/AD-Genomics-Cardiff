@@ -8,9 +8,7 @@ filters:
   - quarto-ext/fontawesome
 
 website:
-  # CHANGE THIS: replace "Your" and "Name" with your own first and last name.
-  # The <strong> tag makes the first name bold and coloured (see styles.css .site-name).
-  title: "<span class='site-name'><strong>Your</strong> Name</span>"
+  title: "<span class='site-name'><strong>AD</strong>-Genomics-Cardiff</span>"
   navbar:
     left:
       - text: Home
@@ -19,16 +17,16 @@ website:
         href: pages/projects.qmd
       - text: Outputs
         href: pages/outputs.qmd
-      - text: Résumé for Research
+      - text: People
         href: pages/resume.qmd
-      - text: CV
+      - text: Resources
         href: pages/cv.qmd
 
     right:
       - icon: github
-        href: https://github.com/YOURUSERNAME   # CHANGE THIS
+        href: https://github.com/PLACEHOLDER-ORG/PLACEHOLDER-REPO
       - icon: envelope
-        href: mailto:YOUR.EMAIL@domain          # CHANGE THIS
+        href: mailto:team-contact@example.org
 
 
 format:

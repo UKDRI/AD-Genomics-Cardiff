@@ -1,18 +1,13 @@
 <!--
-Reusable links block for profile / CV pages.
-
-INSTRUCTIONS:
-- Replace # with your own URLs
-- Delete links you do not want
-- Icons use Font Awesome via quarto-ext/fontawesome shortcodes
+Reusable links block for team pages.
 -->
 
 <div class="profile-links">
-  <a href="#" aria-label="Website">{{< fa globe >}} Website</a>
+  <a href="#" aria-label="Team website">{{< fa globe >}} Team page</a>
   <span class="sep">·</span>
-  <a href="https://github.com/yourusername" aria-label="GitHub">{{< fa brands github >}} GitHub</a>
+  <a href="https://github.com/PLACEHOLDER-ORG/PLACEHOLDER-REPO" aria-label="GitHub">{{< fa brands github >}} GitHub</a>
   <span class="sep">·</span>
-  <a href="https://www.linkedin.com/in/yourprofile" aria-label="LinkedIn">{{< fa brands linkedin >}} LinkedIn</a>
+  <a href="mailto:team-contact@example.org" aria-label="Email">{{< fa envelope >}} Contact</a>
   <span class="sep">·</span>
-  <a href="https://orcid.org/0000-0000-0000-0000" aria-label="ORCID">{{< fa brands orcid >}} ORCID</a>
+  <a href="#" aria-label="UK DRI Cardiff">{{< fa building-columns >}} UK DRI Cardiff</a>
 </div>

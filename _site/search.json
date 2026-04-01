@@ -2,162 +2,134 @@
   {
     "objectID": "pages/cv.html",
     "href": "pages/cv.html",
-    "title": "Curriculum Vitae",
+    "title": "Resources",
     "section": "",
-    "text": "Your role / job title\n\n\n\n\n Website ·  GitHub ·  LinkedIn ·  ORCID"
+    "text": "This page collects practical resources for AD-Genomics-Cardiff. Replace the placeholders with confirmed links and descriptions as materials are ready."
   },
   {
-    "objectID": "pages/cv.html#summary",
-    "href": "pages/cv.html#summary",
-    "title": "Curriculum Vitae",
-    "section": "Summary",
-    "text": "Summary\n\nWrite a short professional summary here. Keep it concrete and readable. Mention your main domain, the kinds of methods you use, and the impact you aim for."
+    "objectID": "pages/cv.html#code-and-repositories",
+    "href": "pages/cv.html#code-and-repositories",
+    "title": "Resources",
+    "section": "Code and repositories",
+    "text": "Code and repositories\n\nTeam GitHub organisation or repository: Placeholder link and description\nAnalysis workflows: Placeholder link to reproducible pipelines or workflow documentation\nMethods notebooks: Placeholder link to public examples, tutorials, or supporting code"
   },
   {
-    "objectID": "pages/cv.html#employment",
-    "href": "pages/cv.html#employment",
-    "title": "Curriculum Vitae",
-    "section": "Employment",
-    "text": "Employment\n\nOrganisation — Role title (YYYY–Present)\n- What you delivered, built, or enabled. - How this helped the project, team, or organisation. - Tools or methods are fine, but include why it mattered.\nOrganisation — Role title (YYYY–YYYY)\n- Impact-focused bullet. - Impact-focused bullet."
+    "objectID": "pages/cv.html#data-and-reference-resources",
+    "href": "pages/cv.html#data-and-reference-resources",
+    "title": "Resources",
+    "section": "Data and reference resources",
+    "text": "Data and reference resources\n\nDatasets: Placeholder links to public datasets, accession pages, or data access information\nReference materials: Placeholder links to annotation resources, reference genomes, or curated lists\nDocumentation: Placeholder link to protocols, standards, or data dictionaries"
   },
   {
-    "objectID": "pages/cv.html#selected-projects-achievements",
-    "href": "pages/cv.html#selected-projects-achievements",
-    "title": "Curriculum Vitae",
-    "section": "Selected projects & achievements",
-    "text": "Selected projects & achievements\n\n\nProject or achievement title: What you did and why it matters.\n(Evidence: repo, report, paper)\nProject or achievement title: One-line impact statement.\nCommunity / leadership / training contribution: One-line impact statement."
+    "objectID": "pages/cv.html#methods-and-analysis-themes",
+    "href": "pages/cv.html#methods-and-analysis-themes",
+    "title": "Resources",
+    "section": "Methods and analysis themes",
+    "text": "Methods and analysis themes\n\nGWAS: Placeholder note on summary statistics, analysis plans, or methods references\nPolygenic risk: Placeholder note on scoring workflows or evaluation resources\nLong-read sequencing: Placeholder note on sequencing, alignment, or variant-calling resources\nFunctional analyses: Placeholder note on pathway, enrichment, or integrative interpretation resources"
   },
   {
-    "objectID": "pages/cv.html#skills",
-    "href": "pages/cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\n\nProgramming & tools: R, Python, Bash, Git, …\nData & analysis: Genomics, transcriptomics, statistics, visualisation, …\nWorkflows & reproducibility: HPC, containers, CI, documentation, FAIR, …\nCommunication & teaching: Workshops, mentoring, stakeholder communication, …\nLanguages: English (…), Portuguese (…), …"
-  },
-  {
-    "objectID": "pages/cv.html#education",
-    "href": "pages/cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nDegree — Institution (YYYY–YYYY)\nFocus or thesis area (optional).\nDegree — Institution (YYYY–YYYY)"
-  },
-  {
-    "objectID": "pages/cv.html#awards-fellowships",
-    "href": "pages/cv.html#awards-fellowships",
-    "title": "Curriculum Vitae",
-    "section": "Awards & fellowships",
-    "text": "Awards & fellowships\n\n\nAward / fellowship — organisation or funder (YYYY)\n\nTravel grant — organisation (YYYY)"
-  },
-  {
-    "objectID": "pages/cv.html#selected-publications",
-    "href": "pages/cv.html#selected-publications",
-    "title": "Curriculum Vitae",
-    "section": "Selected publications",
-    "text": "Selected publications\n\n\nAuthor, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
-  },
-  {
-    "objectID": "pages/cv.html#outreach-teaching",
-    "href": "pages/cv.html#outreach-teaching",
-    "title": "Curriculum Vitae",
-    "section": "Outreach & teaching",
-    "text": "Outreach & teaching\n\n\nTeaching or training contribution (audience, topic)\nInvited talk, poster, or seminar\nCommunity service, committee work, or peer review"
+    "objectID": "pages/cv.html#collaboration-and-contact",
+    "href": "pages/cv.html#collaboration-and-contact",
+    "title": "Resources",
+    "section": "Collaboration and contact",
+    "text": "Collaboration and contact\n\n\n Team page ·  GitHub ·  Contact ·  UK DRI Cardiff\n\n\nGeneral enquiries: team-contact@example.org\nCollaborations: Placeholder note for prospective collaborators, students, or trainees\nInternal resources: Placeholder link or note for shared documentation if later needed"
   },
   {
     "objectID": "pages/resume.html",
     "href": "pages/resume.html",
-    "title": "Résumé for Research",
+    "title": "People",
     "section": "",
-    "text": "Note\n\n\n\nThis format focuses on contributions and impact, rather than job titles or publication counts. Wherever possible, link to evidence that supports your claims.\nThis Résumé for Research uses a narrative CV structure, commonly requested by research funders and institutions.\nContributions are grouped into four modules. For each entry, aim to make clear:"
+    "text": "This page introduces the AD-Genomics-Cardiff team. Replace placeholder entries with confirmed names, roles, biographies, and links when those details are ready."
   },
   {
-    "objectID": "pages/resume.html#contributions-to-the-generation-of-knowledge",
-    "href": "pages/resume.html#contributions-to-the-generation-of-knowledge",
-    "title": "Résumé for Research",
-    "section": "1. Contributions to the generation of knowledge",
-    "text": "1. Contributions to the generation of knowledge\n\n\n\n\nContribution title or short claim\n\nContribution: What you did or produced.\nSignificance: Why this advances understanding in your field.\nEvidence: Link to a paper, preprint, repository, report, or dataset."
+    "objectID": "pages/resume.html#team-overview",
+    "href": "pages/resume.html#team-overview",
+    "title": "People",
+    "section": "Team overview",
+    "text": "Team overview\nAD-Genomics-Cardiff is part of UK DRI Cardiff and focuses on integrative analysis of genetic and multi-omics data in Alzheimer’s disease research.\n\n\n\nTeam scope\n\nIntegrative analysis across genetics and molecular data\nMethods spanning GWAS, polygenic risk, sequencing, and downstream interpretation\nCollaborative work across computational, statistical, and biological domains"
   },
   {
-    "objectID": "pages/resume.html#contributions-to-the-development-of-others",
-    "href": "pages/resume.html#contributions-to-the-development-of-others",
-    "title": "Résumé for Research",
-    "section": "2. Contributions to the development of others",
-    "text": "2. Contributions to the development of others\n\n\n\n\nContribution title or short claim\n\nContribution: e.g. supervision, mentoring, teaching, onboarding resources.\nWho benefited: students, colleagues, teams, or communities.\nEvidence: materials, projects, acknowledgements, feedback."
+    "objectID": "pages/resume.html#team-members",
+    "href": "pages/resume.html#team-members",
+    "title": "People",
+    "section": "Team members",
+    "text": "Team members\nUse one card per person or role group. The entries below are intentionally generic placeholders so the page can be reviewed before specific biographies are added.\n\n\n\nPlaceholder team lead or senior investigator\n\nRole: Placeholder leadership role\nFocus: Placeholder summary of research direction and expertise\nLinks: Placeholder team page, group page, or contact link"
   },
   {
-    "objectID": "pages/resume.html#contributions-to-the-wider-research-community",
-    "href": "pages/resume.html#contributions-to-the-wider-research-community",
-    "title": "Résumé for Research",
-    "section": "3. Contributions to the wider research community",
-    "text": "3. Contributions to the wider research community\n\n\n\n\nContribution title or short claim\n\nContribution: What you shared, led, or enabled.\nReach: Who uses it, or how widely it has been adopted.\nEvidence: repositories, usage, citations, invitations."
+    "objectID": "pages/resume.html#research-and-technical-roles",
+    "href": "pages/resume.html#research-and-technical-roles",
+    "title": "People",
+    "section": "Research and technical roles",
+    "text": "Research and technical roles\n\n\n\nPlaceholder researchers and analysts\n\nResearch staff: Placeholder names, roles, and topic areas\nComputational support: Placeholder details for analysis, pipelines, or data integration\nStudents and trainees: Placeholder details where appropriate"
   },
   {
-    "objectID": "pages/resume.html#contributions-to-broader-society",
-    "href": "pages/resume.html#contributions-to-broader-society",
-    "title": "Résumé for Research",
-    "section": "4. Contributions to broader society",
-    "text": "4. Contributions to broader society\n\n\n\n\nContribution title or short claim\n\nContribution: Activity, output, or engagement.\nImpact: Why this matters beyond academia.\nEvidence: talks, collaborations, media, outputs."
+    "objectID": "pages/resume.html#collaboration",
+    "href": "pages/resume.html#collaboration",
+    "title": "People",
+    "section": "Collaboration",
+    "text": "Collaboration\nAdd confirmed partner teams, institutes, and points of contact here when ready.\n\n\n\nWorking with the team\n\nAffiliation: UK DRI Cardiff and related collaborators\nOpportunities: Placeholder note for collaboration, training, or student interest\nContact: Use the shared team contact details from the site links"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Your role / job title\n\n\nWrite a short professional bio here. Focus on your research or technical domain, the kinds of methods or tools you use, and the impact you care about.\n\nAffiliation · Institute · Research focus (optional)\n\n\n Website ·  GitHub ·  LinkedIn ·  ORCID"
+    "text": "UK DRI Cardiff team hub for Alzheimer’s disease genomics\n\nAD-Genomics-Cardiff is a UKDRI Cardiff team focused on integrative analysis of genetic and multi-omics data for Alzheimer’s disease research. The site brings together our research themes, projects, outputs, and team information in one place, with room to add datasets, methods, and collaborative resources over time.\nUK Dementia Research Institute at Cardiff University\n\n\n Team page ·  GitHub ·  Contact ·  UK DRI Cardiff"
   },
   {
-    "objectID": "index.html#focus-areas",
-    "href": "index.html#focus-areas",
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
     "title": "Home",
-    "section": "Focus areas",
-    "text": "Focus areas\n\n\n\nYour research area 1\n\nWhat you study, build, or analyse — and why it matters.\n\n\nYour research area 2\n\nMethods, tools, or approaches you are known for.\n\n\nYour research area 3\n\nImpact, translation, or community work you care about."
+    "section": "Research themes",
+    "text": "Research themes\n\n\nGWAS and polygenic risk\nUnderstanding inherited susceptibility to Alzheimer’s disease through genome-wide association studies and polygenic modelling.\n\n\nLong-read sequencing and variant calling\nImproving detection and interpretation of genetic variation using long-read data and robust analytical workflows.\n\n\nPathway and functional analyses\nLinking genomic signals to biological mechanisms through integrative downstream analysis across molecular layers."
   },
   {
     "objectID": "index.html#start-here",
     "href": "index.html#start-here",
     "title": "Home",
     "section": "Start here",
-    "text": "Start here\n\n\n\n\nProjects →\nShort case studies showing what you did, how you did it, and why it matters.\n\n\n\n\nRésumé for Research →\nA narrative CV using four modules, aligned with current funder expectations.\n\n\n\n\nOutputs →\nPublications, talks, software, datasets, and other things you’ve put into the world."
+    "text": "Start here\n\n\n\nProjects →\nCurrent workstreams, analysis areas, and placeholder summaries for ongoing team activity.\n\n\n\n\nPeople →\nTeam members, roles, affiliations, and collaboration points. Add biographies and links later.\n\n\n\n\nOutputs and resources →\nPublications, software, datasets, talks, and other shared outputs from the group.\n\n\n\n\nResources →\nShared links, analysis resources, repository pointers, and contact placeholders for the team."
   },
   {
     "objectID": "pages/outputs.html",
     "href": "pages/outputs.html",
     "title": "Outputs",
     "section": "",
-    "text": "Author, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
+    "text": "This page gathers public-facing outputs from AD-Genomics-Cardiff. Replace the placeholders below with specific records as team outputs are ready to list."
   },
   {
     "objectID": "pages/outputs.html#publications",
     "href": "pages/outputs.html#publications",
     "title": "Outputs",
-    "section": "",
-    "text": "Author, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
+    "section": "Publications",
+    "text": "Publications\n\nPlaceholder publication citation\n\nPlaceholder preprint or manuscript citation"
   },
   {
     "objectID": "pages/outputs.html#talks-posters",
     "href": "pages/outputs.html#talks-posters",
     "title": "Outputs",
     "section": "Talks & posters",
-    "text": "Talks & posters\n\n\nEvent / venue (Year). Title. Link\n\nEvent / venue (Year). Title. Link"
+    "text": "Talks & posters\n\nPlaceholder conference talk or seminar\n\nPlaceholder poster or workshop presentation"
   },
   {
     "objectID": "pages/outputs.html#software-data-other-resources",
     "href": "pages/outputs.html#software-data-other-resources",
     "title": "Outputs",
     "section": "Software, data & other resources",
-    "text": "Software, data & other resources\n\n\nTool / dataset name: One-line description. Link\n\nResource name: One-line description. Link"
+    "text": "Software, data & other resources\n\nPlaceholder repository or pipeline: Brief description and link\n\nPlaceholder dataset or analysis resource: Brief description and link"
   },
   {
-    "objectID": "pages/outputs.html#other-outputs-optional",
-    "href": "pages/outputs.html#other-outputs-optional",
+    "objectID": "pages/outputs.html#team-updates-and-other-outputs",
+    "href": "pages/outputs.html#team-updates-and-other-outputs",
     "title": "Outputs",
-    "section": "Other outputs (optional)",
-    "text": "Other outputs (optional)\n\n\nOutput name (Year). One-line description. Link"
+    "section": "Team updates and other outputs",
+    "text": "Team updates and other outputs\n\nPlaceholder report, briefing, or training material\n\nPlaceholder shared protocol, dashboard, or community resource"
   },
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project title\n\nProblem: What needed solving, understanding, or building?\n\nMy role: What you were responsible for (analysis, methods, coordination, etc.).\n\nApproach: How you went about it (methods, data, tools).\n\nEvidence: - Repo: … - Report / preprint: … - Paper / poster: …\n\n\n\n\nProject title\nProblem: …\nMy role: …\nApproach: …\nEvidence: - Repo: … - Output: …"
+    "text": "This page highlights current AD-Genomics-Cardiff workstreams. Specific project names, datasets, and outputs can be added as they are ready to share publicly.\n\n\n\nIntegrative genetics workstream\nFocus: Connecting Alzheimer’s disease risk loci to downstream biological mechanisms using genetic and multi-omics data.\nCurrent activity: Placeholder summary for cohort integration, statistical analysis, and interpretation work led by the team.\nMethods: GWAS, polygenic risk modelling, pathway analysis, and functional follow-up.\nEvidence: - Placeholder project page or repository link - Placeholder report, preprint, or poster link - Placeholder dataset or methods resource\n\n\n\n\nSequencing and variant interpretation workstream\nFocus: Using long-read sequencing and variant-calling workflows to improve resolution of Alzheimer’s disease-relevant genomic variation.\nCurrent activity: Placeholder summary for pipeline development, benchmarking, quality control, and biological interpretation.\nMethods: Long-read sequencing, variant calling, annotation, and comparative analyses.\nEvidence: - Placeholder workflow or code repository link - Placeholder benchmark, manuscript, or presentation link - Placeholder documentation or resource link"
   }
 ]

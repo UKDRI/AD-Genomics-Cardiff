@@ -1,110 +1,79 @@
 ---
-title: "Résumé for Research"
+title: "People"
 toc: false
 ---
 
-::: {.callout-note}
-This format focuses on **contributions and impact**, rather than job titles or
-publication counts. Wherever possible, link to evidence that supports your claims.
-:::
-
-<!--
-This page follows a narrative CV format commonly requested by research funders.
-You don’t need to complete every section in one go — start with what you have.
--->
-
-This **Résumé for Research** uses a narrative CV structure, commonly requested by
-research funders and institutions.
-
-Contributions are grouped into **four modules**. For each entry, aim to make clear:
-
-- **What you contributed**
-- **Why it matters**
-- **Where the evidence can be found**
+This page introduces the AD-Genomics-Cardiff team. Replace placeholder entries
+with confirmed names, roles, biographies, and links when those details are ready.
 
 ---
 
-## 1. Contributions to the generation of knowledge
+## Team overview
 
-<!--
-PROMPT:
-List 2–4 key research contributions.
-These could include methods, datasets, analyses, or conceptual advances.
--->
+AD-Genomics-Cardiff is part of UK DRI Cardiff and focuses on integrative
+analysis of genetic and multi-omics data in Alzheimer’s disease research.
 
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
+### Team scope
 
-- **Contribution:** What you did or produced.
-- **Significance:** Why this advances understanding in your field.
-- **Evidence:** Link to a paper, preprint, repository, report, or dataset.
+- Integrative analysis across genetics and molecular data
+- Methods spanning GWAS, polygenic risk, sequencing, and downstream interpretation
+- Collaborative work across computational, statistical, and biological domains
 :::
 :::
 :::
 
 ---
 
-## 2. Contributions to the development of others
+## Team members
 
-<!--
-PROMPT:
-Think broadly. This is not just formal supervision.
-Include teaching, mentoring, training, documentation, or informal support.
--->
+Use one card per person or role group. The entries below are intentionally generic
+placeholders so the page can be reviewed before specific biographies are added.
 
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
+### Placeholder team lead or senior investigator
 
-- **Contribution:** e.g. supervision, mentoring, teaching, onboarding resources.
-- **Who benefited:** students, colleagues, teams, or communities.
-- **Evidence:** materials, projects, acknowledgements, feedback.
+- **Role:** Placeholder leadership role
+- **Focus:** Placeholder summary of research direction and expertise
+- **Links:** Placeholder team page, group page, or contact link
 :::
 :::
 :::
 
 ---
 
-## 3. Contributions to the wider research community
-
-<!--
-PROMPT:
-Examples include open science, shared resources, leadership, or service.
--->
+## Research and technical roles
 
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
+### Placeholder researchers and analysts
 
-- **Contribution:** What you shared, led, or enabled.
-- **Reach:** Who uses it, or how widely it has been adopted.
-- **Evidence:** repositories, usage, citations, invitations.
+- **Research staff:** Placeholder names, roles, and topic areas
+- **Computational support:** Placeholder details for analysis, pipelines, or data integration
+- **Students and trainees:** Placeholder details where appropriate
 :::
 :::
 :::
 
 ---
 
-## 4. Contributions to broader society
+## Collaboration
 
-<!--
-PROMPT:
-This can include translational impact, public engagement, policy influence,
-capacity building, or work that benefits specific communities.
--->
+Add confirmed partner teams, institutes, and points of contact here when ready.
 
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
+### Working with the team
 
-- **Contribution:** Activity, output, or engagement.
-- **Impact:** Why this matters beyond academia.
-- **Evidence:** talks, collaborations, media, outputs.
+- **Affiliation:** UK DRI Cardiff and related collaborators
+- **Opportunities:** Placeholder note for collaboration, training, or student interest
+- **Contact:** Use the shared team contact details from the site links
 :::
 :::
 :::

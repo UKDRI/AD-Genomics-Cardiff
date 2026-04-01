@@ -1,11 +1,11 @@
 /* =============================================================================
-UK DRI Portfolio Template — Stylesheet
+UK DRI Team Site — Stylesheet
 Purpose:
-- Provide a clean, professional default style for a personal portfolio site
+- Provide a clean, professional default style for a small team website
 - Use the UK DRI colour palette as sensible defaults (easy to customise)
 
 How to customise:
-- Change the CSS variables in :root to re-theme the template.
+- Change the CSS variables in :root to re-theme the site.
 - Keep colour use minimal (navbar + small accents) for readability.
 ============================================================================= */
 
@@ -25,7 +25,7 @@ Tip: Use dark blue for navigation, and one accent colour sparingly.
   --ukdri-bright-blue: #4682ff; /* UK DRI bright blue */
   --ukdri-cobalt:      #325ad7; /* UK DRI cobalt */
 
-  /* Template theme choices (change these to re-theme quickly) */
+  /* Site theme choices (change these to re-theme quickly) */
   --brand-nav: var(--ukdri-dark-blue);
   --brand-accent: var(--ukdri-petrol-blue);
   --page-bg: #ffffff;
@@ -66,7 +66,7 @@ Navbar branding
   border-bottom: 2px solid var(--brand-accent);
 }
 
-/* Name styling in navbar (matches the “bold first name” look) */
+/* Name styling in navbar */
 .site-name{
   font-size: 1.35rem;
   letter-spacing: 0.2px;
@@ -75,63 +75,6 @@ Navbar branding
 .site-name strong{
   font-weight: 800;
   color: var(--brand-accent);
-}
-
-/* -----------------------------------------------------------------------------
-CV page styling (cv.qmd)
-Goal: clean, scannable, “web CV” layout (inspired by academic templates)
------------------------------------------------------------------------------ */
-.cv-header {
-  position: relative;
-  text-align: center;
-  margin-top: 0.5rem;
-  margin-bottom: 1.75rem;
-}
-
-.cv-header h1 {
-  margin-bottom: 0.25rem;
-  font-size: 2.1rem;
-  font-weight: 600;
-}
-
-.cv-subtitle {
-  font-size: 1.05rem;
-  font-weight: 600;
-  opacity: 0.85;
-  margin-bottom: 0.75rem;
-}
-
-.cv-links {
-  font-size: 0.98rem;
-  line-height: 1.3;
-  margin: 0 auto;
-  max-width: 980px;
-  opacity: 0.95;
-}
-
-.cv-links a {
-  text-decoration: none;
-}
-
-.cv-links a:hover {
-  text-decoration: underline;
-}
-
-/* Small “PDF” button in the top-right (optional) */
-.cv-pdf {
-  position: absolute;
-  right: 0;
-  top: 0.2rem;
-  font-size: 0.95rem;
-  padding: 0.25rem 0.6rem;
-  border: 1px solid rgba(0,0,0,0.18);
-  border-radius: 0.4rem;
-  text-decoration: none;
-  background: rgba(255,255,255,0.65);
-}
-
-.cv-pdf:hover {
-  background: rgba(255,255,255,0.95);
 }
 
 /* Section headers: bold, structured, with a subtle accent left-border */
@@ -156,7 +99,6 @@ hr {
 
 /* -----------------------------------------------------------------------------
 Homepage hero (index.qmd)
-Goal: intro text + avatar/banner image with a calm, professional feel
 ----------------------------------------------------------------------------- */
 .home-hero {
   margin-top: 0.5rem;
@@ -172,7 +114,7 @@ Goal: intro text + avatar/banner image with a calm, professional feel
   margin-bottom: 0.9rem;
 }
 
-/* Avatar / banner image styling */
+/* Team image / banner styling */
 .profile-pic {
   border-radius: 0.75rem;
   box-shadow: 0 10px 25px rgba(0,0,0,0.10);
@@ -183,7 +125,7 @@ Goal: intro text + avatar/banner image with a calm, professional feel
 }
 
 /* -----------------------------------------------------------------------------
-Résumé for Research: tighter spacing inside contribution cards
+Cards and reusable content blocks
 ----------------------------------------------------------------------------- */
 
 /* Reduce padding inside cards */
@@ -214,7 +156,7 @@ Résumé for Research: tighter spacing inside contribution cards
 .card li {
   margin-bottom: 0.3rem;
 }
-/* Reusable profile link block */
+/* Reusable team link block */
 .profile-links {
   display: flex;
   flex-wrap: wrap;        /* allows wrapping on small screens */
@@ -247,9 +189,4 @@ Résumé for Research: tighter spacing inside contribution cards
   gap: 0.4rem;
   align-items: center;
   margin: 0;
-}
-
-/* Center profile links when used in CV header */
-.cv-links .profile-links {
-  justify-content: center;
 }

@@ -3,57 +3,45 @@ title: "Projects"
 toc: false
 ---
 
-<!--
-This page is for short, evidence-backed project case studies.
-Think “what I worked on and what came out of it”, not full lab notebooks 🙂
-
-To add more projects: copy one of the card blocks below and paste it inside the .grid div.
-Each card is a ::: {.g-col-12 .g-col-md-6} ::: {.card} ... ::: ::: block.
--->
+This page highlights current AD-Genomics-Cardiff workstreams. Specific project
+names, datasets, and outputs can be added as they are ready to share publicly.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
-### Project title
+### Integrative genetics workstream
 
-<!-- PROMPT:
-1–2 sentences. What was the problem or question you were addressing?
--->
-**Problem:** What needed solving, understanding, or building?
+**Focus:** Connecting Alzheimer’s disease risk loci to downstream biological
+mechanisms using genetic and multi-omics data.
 
-<!-- PROMPT:
-Be explicit about *your* contribution.
--->
-**My role:** What you were responsible for (analysis, methods, coordination, etc.).
+**Current activity:** Placeholder summary for cohort integration, statistical
+analysis, and interpretation work led by the team.
 
-<!-- PROMPT:
-High level is fine.
-Focus on approach, tools, or concepts — not implementation detail.
--->
-**Approach:** How you went about it (methods, data, tools).
+**Methods:** GWAS, polygenic risk modelling, pathway analysis, and functional follow-up.
 
-<!-- PROMPT:
-Evidence matters more than prose.
-Link to anything public or shareable.
--->
 **Evidence:**
-- Repo: …
-- Report / preprint: …
-- Paper / poster: …
+- Placeholder project page or repository link
+- Placeholder report, preprint, or poster link
+- Placeholder dataset or methods resource
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
-### Project title
+### Sequencing and variant interpretation workstream
 
-**Problem:** …  
-**My role:** …  
-**Approach:** …  
+**Focus:** Using long-read sequencing and variant-calling workflows to improve
+resolution of Alzheimer’s disease-relevant genomic variation.
+
+**Current activity:** Placeholder summary for pipeline development, benchmarking,
+quality control, and biological interpretation.
+
+**Methods:** Long-read sequencing, variant calling, annotation, and comparative analyses.
 
 **Evidence:**
-- Repo: …
-- Output: …
+- Placeholder workflow or code repository link
+- Placeholder benchmark, manuscript, or presentation link
+- Placeholder documentation or resource link
 :::
 :::
 :::

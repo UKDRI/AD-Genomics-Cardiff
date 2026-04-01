@@ -2,30 +2,19 @@
 title: "Home"
 toc: false
 ---
-<!--
-This homepage is intentionally simple.
-You can always add more later — start with clarity.
--->
 
 ::: {.columns .home-hero}
 ::: {.column width="65%"}
-# Your Name
+# AD-Genomics-Cardiff
 
-<div class="home-subtitle">Your role / job title</div>
+<div class="home-subtitle">UK DRI Cardiff team hub for Alzheimer’s disease genomics</div>
 
-<!-- PROMPT:
-2–4 sentences is plenty.
-Say who you are, what you work on, and why it matters.
-No need to tell your whole life story 🙂
--->
-Write a short professional bio here. Focus on your research or technical domain,
-the kinds of methods or tools you use, and the impact you care about.
+AD-Genomics-Cardiff is a UKDRI Cardiff team focused on integrative analysis of
+genetic and multi-omics data for Alzheimer’s disease research. The site brings
+together our research themes, projects, outputs, and team information in one
+place, with room to add datasets, methods, and collaborative resources over time.
 
-<!-- PROMPT:
-Optional one-liner.
-This could be an affiliation, institute, research group, or focus area.
--->
-*Affiliation · Institute · Research focus (optional)*
+*UK Dementia Research Institute at Cardiff University*
 
 {{< include _partials/links.qmd >}}
 
@@ -33,42 +22,31 @@ This could be an affiliation, institute, research group, or focus area.
 :::
 
 ::: {.column width="35%"}
-<!--
-PROMPT:
-Use a photo, illustration, or abstract banner image.
-This template uses an avatar/banner by default to keep things low-pressure.
--->
-![](assets/images/profile.png){.profile-pic fig-alt="Profile image or banner"}
+![](assets/images/profile.png){.profile-pic fig-alt="Placeholder team image or research banner"}
 :::
 :::
 
 ---
 
-## Focus areas
-
-<!--
-PROMPT:
-Pick 2–4 areas you’d be happy to talk about if someone asked,
-“What do you actually work on?”
--->
+## Research themes
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
-### Your research area 1
-<!-- PROMPT: 1–2 lines describing this area -->
-What you study, build, or analyse — and why it matters.
+### GWAS and polygenic risk
+Understanding inherited susceptibility to Alzheimer’s disease through genome-wide
+association studies and polygenic modelling.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Your research area 2
-<!-- PROMPT: 1–2 lines describing this area -->
-Methods, tools, or approaches you are known for.
+### Long-read sequencing and variant calling
+Improving detection and interpretation of genetic variation using long-read data
+and robust analytical workflows.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Your research area 3
-<!-- PROMPT: 1–2 lines describing this area -->
-Impact, translation, or community work you care about.
+### Pathway and functional analyses
+Linking genomic signals to biological mechanisms through integrative downstream
+analysis across molecular layers.
 :::
 :::
 
@@ -76,34 +54,36 @@ Impact, translation, or community work you care about.
 
 ## Start here
 
-<!--
-PROMPT:
-These links help visitors (and future you!) navigate the site.
-Think of this as a “signpost” section.
--->
-
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
 [**Projects →**](pages/projects.qmd)
 
-Short case studies showing what you did, how you did it, and why it matters.
+Current workstreams, analysis areas, and placeholder summaries for ongoing team activity.
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
-[**Résumé for Research →**](pages/resume.qmd)
+[**People →**](pages/resume.qmd)
 
-A narrative CV using four modules, aligned with current funder expectations.
+Team members, roles, affiliations, and collaboration points. Add biographies and links later.
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
-[**Outputs →**](pages/outputs.qmd)
+[**Outputs and resources →**](pages/outputs.qmd)
 
-Publications, talks, software, datasets, and other things you’ve put into the world.
+Publications, software, datasets, talks, and other shared outputs from the group.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+[**Resources →**](pages/cv.qmd)
+
+Shared links, analysis resources, repository pointers, and contact placeholders for the team.
 :::
 :::
 :::
