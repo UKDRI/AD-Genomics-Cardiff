@@ -29,7 +29,22 @@ placeholders with confirmed links and descriptions as materials are ready.
 - **Long-read sequencing:** Placeholder note on sequencing, alignment, or variant-calling resources
 - **Functional analyses:** Placeholder note on pathway, enrichment, or integrative interpretation resources
 
----
+***
+
+## Bioinformatics Toolkit
+
+::: {.callout-note}
+The [UKDRI Bioinformatics Toolkit](https://prdsr.quarto.pub/ukdri-bioinformatics-toolkit/)
+supports reproducible bioinformatics and onboarding across projects.
+
+It covers:
+- project structure and organisation
+- version control and GitHub workflows
+- reproducible analysis practices
+- onboarding guidance for new team members
+:::
+
+***
 
 ## Collaboration and contact
 

@@ -28,6 +28,13 @@
     "text": "Methods and analysis themes\n\nGWAS: Placeholder note on summary statistics, analysis plans, or methods references\nPolygenic risk: Placeholder note on scoring workflows or evaluation resources\nLong-read sequencing: Placeholder note on sequencing, alignment, or variant-calling resources\nFunctional analyses: Placeholder note on pathway, enrichment, or integrative interpretation resources"
   },
   {
+    "objectID": "pages/cv.html#bioinformatics-toolkit",
+    "href": "pages/cv.html#bioinformatics-toolkit",
+    "title": "Resources",
+    "section": "Bioinformatics Toolkit",
+    "text": "Bioinformatics Toolkit\n\n\n\n\n\n\nNote\n\n\n\nThe UKDRI Bioinformatics Toolkit supports reproducible bioinformatics and onboarding across projects.\nIt covers: - project structure and organisation - version control and GitHub workflows - reproducible analysis practices - onboarding guidance for new team members"
+  },
+  {
     "objectID": "pages/cv.html#collaboration-and-contact",
     "href": "pages/cv.html#collaboration-and-contact",
     "title": "Resources",
