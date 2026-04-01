@@ -5,7 +5,7 @@ Reusable links block for team pages.
 <div class="profile-links">
   <a href="#" aria-label="Team website">{{< fa globe >}} Team page</a>
   <span class="sep">·</span>
-  <a href="https://github.com/PLACEHOLDER-ORG/PLACEHOLDER-REPO" aria-label="GitHub">{{< fa brands github >}} GitHub</a>
+  <a href="https://github.com/orgs/UKDRI/teams/ad-genomics-cardiff" aria-label="GitHub">{{< fa brands github >}} GitHub</a>
   <span class="sep">·</span>
   <a href="mailto:team-contact@example.org" aria-label="Email">{{< fa envelope >}} Contact</a>
   <span class="sep">·</span>
