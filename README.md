@@ -32,5 +32,3 @@ This includes:
 - GitHub best practices
 - onboarding guidance
 
-```bash
-quarto preview
