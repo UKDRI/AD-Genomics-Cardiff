@@ -6,7 +6,7 @@ This site presents our work on integrative genetic and multi-omics analysis for 
 
 ## 🌐 Website
 
-[Add link once deployed]
+https://ukdri.github.io/AD-Genomics-Cardiff/
 
 ## 🧠 About
 
@@ -24,7 +24,7 @@ The AD-Genomics-Cardiff team focuses on understanding the genetic and molecular 
 
 We maintain a practical toolkit for reproducible bioinformatics and onboarding:
 
-👉 https://prdsr.quarto.pub/ukdri-bioinformatics-toolkit/
+👉 https://ukdri.github.io/ukdri-bioinformatics-toolkit/
 
 This includes:
 - project organisation
